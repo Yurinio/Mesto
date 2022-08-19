@@ -16,5 +16,5 @@
 
 ***
 **Ссылка проект**
-https://yurinio.github.io/Mesto-5/index.html
+https://yurinio.github.io/Mesto/index.html
 "# Mesto-5.0" 
